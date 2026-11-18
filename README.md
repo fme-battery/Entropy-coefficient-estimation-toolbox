@@ -24,3 +24,5 @@ Git can be used to clone repository in wanted folder without manual download, zi
 2. cd "path" into the folder you want to clone repository to
 3. clone the repository with: clone "repository HPPTS link"  
 
+## Link to original Battery Coast repository
+https://github.com/BatteryCoast/Entropy-estimation-toolbox.git
